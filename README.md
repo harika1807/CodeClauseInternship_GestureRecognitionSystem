@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/VPeXz8k.png" alt="Gesture Recognition Banner" width="800"/>
+  <img src="banner.png" alt="Gesture Recognition Banner" width="800"/>
 </p>
 
 # ✋ Gesture Recognition System
@@ -8,7 +8,7 @@
 This project uses deep learning and computer vision to recognize hand gestures in real-time from a webcam feed using CNNs.
 
 ## 📽️ Demo
-> 🎥 [Attach your output.avi here or link a Google Drive demo]
+> 🎥 https://github.com/harika1807/CodeClauseInternship_GestureRecognitionSystem/blob/main/output.avi
 
 ## 📌 Features
 - Real-time hand gesture recognition
@@ -61,11 +61,24 @@ python recognize_gesture.py
 ```
 
 ## ✋ Supported Gestures
-- Fist ✊
-- Palm ✋
-- Thumbs Up 👍
-- Thumbs Down 👎
-- Peace ✌️
+- call
+- dislike
+- fist
+- four
+- like
+- mute
+- ok
+- one
+- palm
+- peace
+- peace_inverted
+- rock
+- stop
+- stop_inverted
+- three
+- three2
+- two_up
+- two_up_inverted
 
 ## 📜 License
 This project is licensed under the MIT License.
