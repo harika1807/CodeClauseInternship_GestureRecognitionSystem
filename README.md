@@ -71,8 +71,6 @@ python gesture_recognition_model.py
 
 ---
 
----
-
 ## 📊 Training Results
 
 #### 🔹 Model Accuracy
@@ -83,7 +81,6 @@ python gesture_recognition_model.py
 
 ---
 
----
 ## 📸 Real-Time Gesture Recognition
 
 To launch the real-time gesture detection using webcam:
