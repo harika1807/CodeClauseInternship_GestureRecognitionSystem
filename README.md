@@ -1,6 +1,9 @@
 
 # ✋ Gesture Recognition System
 
+![Banner](https://raw.githubusercontent.com/harika1807/CodeClauseInternship_GestureRecognitionSystem/main/banner.png)
+![License](https://img.shields.io/github/license/harika1807/CodeClauseInternship_GestureRecognitionSystem)
+
 This project is part of the **CodeClause AI Internship (Golden Level)** and focuses on building a real-time **hand gesture recognition system** using deep learning and computer vision.
 
 ---
@@ -68,6 +71,19 @@ python gesture_recognition_model.py
 
 ---
 
+---
+
+## 📊 Training Results
+
+#### 🔹 Model Accuracy
+![Model Accuracy](https://github.com/harika1807/CodeClauseInternship_GestureRecognitionSystem/blob/main/path/to/Model_Accuracy.png)
+
+#### 🔹 Model Loss
+![Model Loss](https://github.com/harika1807/CodeClauseInternship_GestureRecognitionSystem/blob/main/path/to/Model_Loss.png)
+
+---
+
+---
 ## 📸 Real-Time Gesture Recognition
 
 To launch the real-time gesture detection using webcam:
@@ -103,7 +119,7 @@ You can view it with VLC or any media player.
 │   └── victory/
 ├── hagrid_labels.csv
 ├── gesture_recognition_model.py
-├── gesture_recognition_live.py
+├── realtime_gesture_recognition.py
 ├── gesture_output.mp4
 ├── requirements.txt
 ├── .gitignore
@@ -115,7 +131,7 @@ You can view it with VLC or any media player.
 ## 💡 Notes
 
 - To keep the repo lightweight, the trained model (`.h5`) is not included.
-- 📅 [Download Pre-trained Model from Google Drive](https://drive.google.com/your-model-link-here) *(Optional)*
+- 📅 [Download Gesture Recognition Model (.h5) from Google Drive](https://drive.google.com/file/d/1DycxuFZ1LB3i9zH0W-tjJJaqrqhLuGMS/view?usp=drive_link)
 
 ---
 
@@ -129,5 +145,5 @@ B.Tech CSE, Rise Krishna Sai Gandhi Group of Institutions
 
 ## 📬 Contact
 
-📧 [YourEmail@example.com]  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📧 [harikaseelam2004@gmail.com]  
+🌐 [LinkedIn](https://www.linkedin.com/in/harika-devi-seelam-242709256/)
