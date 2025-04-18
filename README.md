@@ -76,10 +76,10 @@ python gesture_recognition_model.py
 ## 📊 Training Results
 
 #### 🔹 Model Accuracy
-![Model Accuracy](https://github.com/harika1807/CodeClauseInternship_GestureRecognitionSystem/blob/main/path/to/Model_Accuracy.png)
+![Model Accuracy](https://github.com/harika1807/CodeClauseInternship_GestureRecognitionSystem/blob/main/model_accuracy.png)
 
 #### 🔹 Model Loss
-![Model Loss](https://github.com/harika1807/CodeClauseInternship_GestureRecognitionSystem/blob/main/path/to/Model_Loss.png)
+![Model Loss](https://github.com/harika1807/CodeClauseInternship_GestureRecognitionSystem/blob/main/model_loss.png)
 
 ---
 
