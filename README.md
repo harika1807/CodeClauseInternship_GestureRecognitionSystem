@@ -49,12 +49,12 @@ Each folder contains respective gesture images, and `hagrid_labels.csv` maps ima
 ## 📆 Requirements
 
 ```
-tensorflow==2.11.0
-opencv-python==4.8.0.76
-numpy==1.23.5
-pandas==1.5.3
-matplotlib==3.6.2
-scikit-learn==1.2.0
+tensorflow==2.18.1
+opencv-python==4.9.0.80
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+scikit-learn==1.5.2
 ```
 
 ---
